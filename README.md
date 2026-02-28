@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Uzair Waseem
 
-Backend Developer | Django • DRF • FastAPI  
+Backend Developer | Django • DRF • FastAPI • React  
 AI, Automation & Real-World Systems Builder  
 🎓 BS Software Engineering @ University of Agriculture, Faisalabad
 
@@ -10,7 +10,7 @@ AI, Automation & Real-World Systems Builder
 I’m a backend-focused developer who believes backend engineering is not about writing endpoints —  
 it’s about building systems that **handle real users, real data, and real failures**.
 
-I started my journey with **automation and AI workflows**, then moved deep into backend engineering using **Django, Django REST Framework, and FastAPI**. I learn by building, breaking, debugging, and rebuilding until things work the *right way*.
+I started my journey with **automation and AI workflows**, then moved deep into backend engineering using **Django, Django REST Framework, FastAPI, and React**. I learn by building, breaking, debugging, and rebuilding until things work the *right way*.
 
 ---
 
@@ -22,6 +22,10 @@ I started my journey with **automation and AI workflows**, then moved deep into 
 - FastAPI
 - REST API Design
 - JWT Authentication & Role-Based Access
+
+**Frontend**
+- React
+- Basic HTML/CSS/JS Integration
 
 **Databases & ORM**
 - SQLite
@@ -38,27 +42,30 @@ I started my journey with **automation and AI workflows**, then moved deep into 
 **Tools**
 - Git & GitHub
 - API Debugging
-- Basic Frontend Integration (React)
+- Docker & Deployment Basics
 
 ---
 
 ### 📌 Featured Projects
 
-🔹 **HireSense** — AI Resume Analyzer & Job Match Engine  
-FastAPI • SQLAlchemy • JWT • AI Agents  
-👉 https://github.com/Uzair-Waseem-390/HireSense  
+🔹 **School Management System** — Full SaaS School Platform  
+Django • React • Multi-Branch • RBAC • Finance Dashboard  
+GitHub: [https://github.com/Uzair-Waseem-390/SMS](https://github.com/Uzair-Waseem-390/SMS)  
+LinkedIn: [Post](https://www.linkedin.com/posts/uzair-waseem-digital_%F0%9D%98%BC%F0%9D%99%A8%F0%9D%99%A8%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%AA%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%9E%F0%9D%99%A0%F0%9D%99%AA%F0%9D%99%A2-this-one-activity-7430745190128046080-sDeg)
 
-🔹 **UzairMart** — Django eCommerce Backend  
-Cart Logic • Email Verification • Secure Auth  
-👉 https://github.com/Uzair-Waseem-390/uzairmart  
+🔹 **Datavo** — AI Database Schema Generator  
+FastAPI • React • OpenAI SDK • JSON-based Schema Outputs  
+GitHub: [https://github.com/Uzair-Waseem-390/Datavo](https://github.com/Uzair-Waseem-390/Datavo)  
+LinkedIn: [Post](https://www.linkedin.com/posts/uzair-waseem-digital_%F0%9D%98%BC%F0%9D%99%A8%F0%9D%99%A8%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%AA%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%9E%F0%9D%99%A0%F0%9D%99%AA%F0%9D%99%A2-some-projects-activity-7433219597077700608-KByW)
 
-🔹 **Lexi** — Stateful AI Agent  
-OpenAI SDK • Tool-Based Agent • Memory  
-👉 https://github.com/Uzair-Waseem-390/lexi  
+🔹 **UzairMart** — Django eCommerce Platform  
+Django • Cart Logic • Email Verification • Secure Auth  
+GitHub: [https://github.com/Uzair-Waseem-390/uzairmart](https://github.com/Uzair-Waseem-390/uzairmart)  
+LinkedIn: [Post](https://www.linkedin.com/posts/uzair-waseem-digital_%F0%9D%98%BC%F0%9D%99%A8%F0%9D%99%A8%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%AA%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%9E%F0%9D%99%A0%F0%9D%99%AA%F0%9D%99%A2-another-activity-7420964103248039936-AHLP)
 
-🔹 **Django Blogging Platform**  
-Multi-Role Users • Permissions • Secure Design  
-👉 https://github.com/Uzair-Waseem-390/django-blog  
+🔹 **BusinessPulse** — AI Decision Support System for Startups  
+Next.js • React • Excel/JSON Data Analysis • Pattern & Trend Detection  
+LinkedIn: [Post](https://www.linkedin.com/posts/uzair-waseem-digital_%F0%9D%98%BC%F0%9D%99%A8%F0%9D%99%A8%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%A2%F0%9D%99%AA%F0%9D%99%96%F0%9D%99%A1%F0%9D%99%96%F0%9D%99%9E%F0%9D%99%A0%F0%9D%99%AA%F0%9D%99%A2-today-activity-7408600825926742016-G7oU)
 
 ---
 
@@ -76,14 +83,15 @@ Multi-Role Users • Permissions • Secure Design
 ---
 
 ### 🌱 Currently Learning
-- Advanced Django & DRF patterns
-- Scalable FastAPI architectures
-- Agentic AI systems & backend integration
+- Advanced Django & DRF patterns  
+- Scalable FastAPI architectures  
+- Agentic AI systems & backend integration  
+- Full-stack React + Backend Integration  
 
 ---
 
 ### 🤝 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/uzair-waseem-digital
+- 💼 LinkedIn: https://linkedin.com/in/uzair-waseem-digital  
 - 📧 Email: uzairwaseem390@gmail.com
 
 ---
