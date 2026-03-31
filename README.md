@@ -205,12 +205,6 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
   <h2>⬛ GitHub Stats</h2>
   <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uzair-Waseem-390&show_icons=true&theme=default&hide_border=true&title_color=0A0A0A&text_color=333333&icon_color=0A0A0A&bg_color=ffffff&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Waseem-390&layout=compact&theme=default&hide_border=true&title_color=0A0A0A&text_color=333333&bg_color=ffffff&langs_count=6" />
-
-  <br/><br/>
-
   <img src="https://streak-stats.demolab.com?user=Uzair-Waseem-390&theme=default&hide_border=true&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A&dates=666666&sideNums=0A0A0A&sideLabels=555555&currStreakNum=0A0A0A" alt="GitHub Streak" />
 
 </div>
