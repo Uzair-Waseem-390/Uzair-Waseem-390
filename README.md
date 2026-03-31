@@ -118,14 +118,9 @@
 
 <br/>
 
-<!-- ── PathWeaver ── -->
-<table width="100%" border="0">
+<table width="100%">
 <tr>
-<td width="48%" valign="middle">
-<img src="project_images/pathweaver.png" width="100%" alt="PathWeaver" />
-</td>
-<td width="4%"></td>
-<td width="48%" valign="middle">
+<td width="50%" valign="top">
 
 ### 🤖 PathWeaver — AI Job Assistant
 
@@ -143,15 +138,7 @@ Fully automated AI pipeline that **scrapes jobs, analyzes resumes, calculates ma
 [![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/PathWeaver)
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ── School Management System ── -->
-<table width="100%" border="0">
-<tr>
-<td width="48%" valign="middle">
+<td width="50%" valign="top">
 
 ### 🏫 School Management System — SaaS
 
@@ -169,23 +156,12 @@ Full multi-tenant SaaS with **7 role-based dashboards**, finance modules, and re
 [![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/SMS)
 
 </td>
-<td width="4%"></td>
-<td width="48%" valign="middle">
-<img src="project_images/school.png" width="100%" alt="School Management System" />
-</td>
 </tr>
-</table>
 
-<br/>
+<tr><td colspan="2"><br/></td></tr>
 
-<!-- ── Datavo ── -->
-<table width="100%" border="0">
 <tr>
-<td width="48%" valign="middle">
-<img src="project_images/datavo.png" width="100%" alt="Datavo" />
-</td>
-<td width="4%"></td>
-<td width="48%" valign="middle">
+<td width="50%" valign="top">
 
 ### 🧠 Datavo — AI Schema Generator
 
@@ -203,15 +179,7 @@ Conversational AI that **asks the right questions first**, then generates optimi
 [![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Datavo)
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ── Virelix ── -->
-<table width="100%" border="0">
-<tr>
-<td width="48%" valign="middle">
+<td width="50%" valign="top">
 
 ### ⚙️ Virelix — AI ERP Builder
 
@@ -228,10 +196,6 @@ Converts business requirements into a **working, modular ERP** — RBAC, multi-t
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Virelix)
 
-</td>
-<td width="4%"></td>
-<td width="48%" valign="middle">
-<img src="project_images/virelir.png" width="100%" alt="Virelix" />
 </td>
 </tr>
 </table>
