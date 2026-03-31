@@ -1,24 +1,69 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════ -->
-<!--               HERO SECTION                 -->
-<!-- ═══════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Uzair%20Waseem&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20Agentic%20AI%20Developer&descSize=18&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%" />
+<!-- TYPING ANIMATION HERO -->
+<a href="https://github.com/Uzair-Waseem-390">
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=28&duration=3000&pause=1200&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi%2C+I'm+Uzair+Waseem+%F0%9F%91%8B;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+not+just+features." alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=0A0A0A&center=true&vCenter=true&width=750&lines=🏗️+Architect+of+distributed+backend+systems;⚡+Async-first+%7C+Celery+%2B+Redis+%2B+Django+%2B+FastAPI;🤖+Agentic+AI+pipelines+for+real+automation;🧩+Multi-tenant+SaaS+%7C+RBAC+%7C+Production-hardened;🔁+I+build+systems%2C+not+just+features." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=400&size=15&duration=4000&pause=2000&color=555555&background=FFFFFF00&center=true&vCenter=true&width=600&height=30&lines=%E2%80%9CDon%E2%80%99t+build+features.+Build+systems.%E2%80%9D" alt="Quote" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-System%20Design-000000?style=for-the-badge&labelColor=000000&color=111111" />
-<img src="https://img.shields.io/badge/Stack-Python%20·%20Django%20·%20FastAPI-000000?style=for-the-badge&labelColor=000000&color=111111" />
-<img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-000000?style=for-the-badge&labelColor=000000&color=111111" />
+<!-- SOCIAL BADGES -->
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
+&nbsp;
+[![Location](https://img.shields.io/badge/Pakistan-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Uzair-Waseem-390)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Uzair-Waseem-390)
 
-<br/><br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=16&duration=5000&pause=4000&color=666666&center=true&vCenter=true&width=600&lines=%22Don%27t+build+features.+Build+systems.%22" alt="Quote" />
+---
+
+<br/>
+
+<!-- ABOUT ME -->
+<div align="center">
+  <h2>⬛ About Me</h2>
+</div>
+
+```
+  Role     →  Backend & Agentic AI Developer
+  Focus    →  System Design · Async Pipelines · SaaS Architecture
+  Stack    →  Python · Django · FastAPI · Redis · Celery · PostgreSQL
+  Current  →  Building AI-native backend systems & automation pipelines
+  Belief   →  "Scalability isn't added later. It's designed from the start."
+```
+
+I design and build backend infrastructure that scales — from async task pipelines to multi-tenant SaaS platforms to AI agent systems that replace entire workflows.
+
+My work sits at the intersection of **distributed systems**, **AI automation**, and **real-world product engineering**.
+
+<br/>
+
+---
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+  <h2>⬛ Tech Stack</h2>
+  <br/>
+
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react&theme=light&perline=8" alt="Languages" />
+  <br/><br/>
+  <!-- Infrastructure & Data -->
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,github&theme=light&perline=8" alt="Infra" />
+  <br/><br/>
+  <!-- AI & Automation -->
+  <img src="https://skillicons.dev/icons?i=openai&theme=light&perline=8" alt="AI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-EF6C57?style=flat-square&logo=n8n&logoColor=white" height="48"/>
 
 </div>
 
@@ -28,173 +73,90 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--               ABOUT ME                     -->
-<!-- ═══════════════════════════════════════════ -->
-
+<!-- FEATURED PROJECTS -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=0A0A0A&center=true&vCenter=true&width=180&lines=▸+About+Me" alt="About Me" />
+  <h2>⬛ Featured Projects</h2>
+  <p><i>Systems built to solve real problems at scale</i></p>
 </div>
 
 <br/>
 
-<table width="100%" border="0">
-<tr>
-<td width="54%" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12.5&duration=1600&pause=500&color=0A0A0A&vCenter=true&multiline=true&width=460&height=155&lines=const+uzair+%3D+%7B;++role%3A+%22Backend+%26+Agentic+AI+Developer%22%2C;++focus%3A+%5B%22System+Design%22%2C+%22Async+Pipelines%22%5D%2C;++stack%3A+%22Python+·+Django+·+FastAPI+·+Redis%22%2C;++current%3A+%22AI-native+backend+systems%22%2C;++belief%3A+%22Scalability+is+designed%2C+not+added%22;%7D%3B" />
-
-</td>
-<td width="46%" valign="middle">
-
-&nbsp;&nbsp;🏗️ &nbsp;Architect distributed backend systems that scale
-
-&nbsp;&nbsp;⚡ &nbsp;Build async pipelines: Celery + Redis + scheduling
-
-&nbsp;&nbsp;🤖 &nbsp;Design agentic AI workflows for real automation
-
-&nbsp;&nbsp;🧩 &nbsp;Ship multi-tenant SaaS with institutional logic
-
-&nbsp;&nbsp;🔒 &nbsp;Engineer APIs that are secure & production-hardened
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!--               TECH STACK                   -->
-<!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=0A0A0A&center=true&vCenter=true&width=180&lines=▸+Tech+Stack" alt="Tech Stack" />
-
-<br/><br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_SDK-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!--            FEATURED PROJECTS               -->
-<!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=0A0A0A&center=true&vCenter=true&width=260&lines=▸+Featured+Projects" alt="Projects" />
-<br/>
-<sub><i>Systems built to solve real problems at scale</i></sub>
-</div>
-
-<br/>
-
+<!-- PathWeaver -->
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 PathWeaver — AI Job Assistant
 
-> *Job hunting is broken. This system fixes it.*
+**The problem:** Job hunting is broken. It's manual, slow, and inefficient.
 
-Fully automated AI pipeline that **scrapes jobs, analyzes resumes, calculates match scores**, and surfaces only the right opportunities — while you sleep.
+**The system:** A fully automated AI pipeline that scrapes jobs, parses resumes, calculates match scores, and surfaces only the right opportunities — while you sleep.
 
-- ⚙️ Async pipeline via **Celery + Redis + Scheduling**
-- 🧠 Resume intelligence + job compatibility scoring
-- 📊 Dynamic filtering with AI-powered ranking
-- 🏗️ Full SaaS-ready architecture
+- Async pipeline via **Celery + Redis**
+- Resume analysis + job compatibility scoring
+- Scheduled job scraping with dynamic filtering
+- Full SaaS-ready architecture
 
-`Django` `React` `Celery` `Redis` `PostgreSQL` `AI`
+**Stack:** `Django` · `React` · `Celery` · `Redis` · `PostgreSQL` · `AI Models`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/PathWeaver)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/PathWeaver)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 School Management System — SaaS
+### 🏫 School Management System (SaaS)
 
-> *Educational institutions run on spreadsheets. Not anymore.*
+**The problem:** Educational institutions run on spreadsheets and WhatsApp.
 
-Full multi-tenant SaaS with **7 role-based dashboards**, finance modules, and real institutional workflow logic baked in from day one.
+**The system:** A full multi-tenant SaaS platform with 7 distinct role-based dashboards, finance modules for real decision-making, and institutional workflow automation.
 
-- 🏢 Multi-branch, multi-tenant architecture
-- 👥 **7 RBAC dashboards** (Admin → Student → Finance...)
-- 💰 Finance reporting for real decision-making
-- 🔄 Real-world institutional workflows
+- Multi-branch, multi-tenant architecture
+- **7 role-based dashboards** (Admin, Teacher, Student, Finance...)
+- Finance reporting for decision-making
+- Real-world institutional logic baked in
 
-`Django` `PostgreSQL`
+**Stack:** `Django` · `PostgreSQL`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/SMS)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/SMS)
 
 </td>
 </tr>
-
 <tr><td colspan="2"><br/></td></tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 Datavo — AI Schema Generator
 
-> *Great schemas need domain knowledge. This agent has it.*
+**The problem:** Designing database schemas requires deep domain knowledge most developers lack.
 
-Conversational AI that **asks the right questions first**, then generates optimized, production-ready DB schemas — structured output, no hallucinations.
+**The system:** A conversational AI agent that asks the right clarifying questions before generating optimized, production-ready database schemas — structured outputs, no hallucinations.
 
-- 💬 Clarification loop before any generation
-- 📐 Structured output engineering only
-- ⚡ Single-agent with dynamic prompt optimization
-- 🎯 Schema quality over schema speed
+- Single-agent design with dynamic prompt optimization
+- Clarification loop before schema generation
+- Structured output engineering
+- Clean FastAPI + React interface
 
-`FastAPI` `React` `OpenAI SDK`
+**Stack:** `FastAPI` · `React` · `AI / OpenAI SDK`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Datavo)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Datavo)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Virelix — AI ERP Builder
 
-> *Building an ERP takes months. This system changes that.*
+**The problem:** Building an ERP takes months and costs a fortune.
 
-Converts business requirements into a **working, modular ERP** — RBAC, multi-tenant design, AI-assisted module generation. A thoughtful hybrid of automation + architecture.
+**The system:** Converts business requirements into a working, modular ERP system — with RBAC, multi-tenant design, and AI-assisted module generation. Not "generate everything with AI" — a thoughtful hybrid of automation and architecture.
 
-- 📋 Business requirements → working ERP modules
-- 🔐 Role-Based Access Control (RBAC) built-in
-- 🏢 Multi-tenant from the ground up
-- 🧩 Modular, not monolithic
+- Business requirements → working ERP modules
+- Role-Based Access Control (RBAC) built-in
+- Multi-tenant from the ground up
+- Modular, not monolithic
 
-`Django` `React` `Celery` `Redis` `OpenAI API`
+**Stack:** `Django` · `React` · `Celery` · `Redis` · `OpenAI API`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Virelix)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Virelix)
 
 </td>
 </tr>
@@ -206,13 +168,50 @@ Converts business requirements into a **working, modular ERP** — RBAC, multi-t
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--            GITHUB STREAK STATS             -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- SYSTEM DESIGN PHILOSOPHY -->
+<div align="center">
+  <h2>⬛ System Design Philosophy</h2>
+</div>
+
+<br/>
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=14&duration=2500&pause=1000&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=750&height=120&lines=01.+Design+for+failure%2C+not+just+success.;02.+Async+by+default.+Sync+only+when+necessary.;03.+Every+bottleneck+is+an+architecture+decision+deferred.;04.+Multi-tenancy+is+not+a+feature%2C+it%E2%80%99s+a+foundation.;05.+An+AI+agent+is+only+as+good+as+the+system+it+runs+in." alt="Principles" />
+</div>
 
-<img src="https://camo.githubusercontent.com/4a8297aae6145db93f8fa3c0b1f170d89661e552f7c42947a991785a4bad3338/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d557a6169722d57617365656d2d333930267468656d653d64656661756c7426686964655f626f726465723d747275652672696e673d30413041304126666972653d304130413041266375727253747265616b4c6162656c3d3041304130412664617465733d36363636363626736964654e756d733d30413041304126736964654c6162656c733d353535353535266375727253747265616b4e756d3d304130413041" alt="GitHub Streak" />
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    HOW I THINK ABOUT SYSTEMS                        │
+├───────────────────┬─────────────────────────────────────────────────┤
+│  Scalability      │  Horizontal by design, not by accident          │
+│  Async Pipelines  │  Celery + Redis for decoupled task execution     │
+│  AI Integration   │  Agents as workers in larger orchestrated flows  │
+│  Data Modeling    │  Schema-first, migration-safe, query-optimized   │
+│  Multi-tenancy    │  Isolated by design from row 1                   │
+│  Observability    │  If you can't measure it, you can't fix it       │
+└───────────────────┴─────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
+<!-- GITHUB STATS -->
+<div align="center">
+  <h2>⬛ GitHub Stats</h2>
+  <br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uzair-Waseem-390&show_icons=true&theme=default&hide_border=true&title_color=0A0A0A&text_color=333333&icon_color=0A0A0A&bg_color=ffffff&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Waseem-390&layout=compact&theme=default&hide_border=true&title_color=0A0A0A&text_color=333333&bg_color=ffffff&langs_count=6" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Uzair-Waseem-390&theme=default&hide_border=true&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A&dates=666666&sideNums=0A0A0A&sideLabels=555555&currStreakNum=0A0A0A" alt="GitHub Streak" />
 
 </div>
 
@@ -222,73 +221,87 @@ Converts business requirements into a **working, modular ERP** — RBAC, multi-t
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--           CURRENTLY BUILDING               -->
-<!-- ═══════════════════════════════════════════ -->
-
+<!-- CONTRIBUTION SNAKE -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=0A0A0A&center=true&vCenter=true&width=280&lines=▸+Currently+Building" alt="Currently Building" />
+  <h2>⬛ Contribution Activity</h2>
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uzair-Waseem-390/Uzair-Waseem-390/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uzair-Waseem-390/Uzair-Waseem-390/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Uzair-Waseem-390/Uzair-Waseem-390/output/github-snake.svg" />
+  </picture>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>⚙️ Setup Snake Animation (click to expand)</b></summary>
+<br/>
+
+Create the file `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:        # Allows manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Settings → Actions → General** and enable **Read and write permissions**.
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- CURRENTLY BUILDING -->
+<div align="center">
+  <h2>⬛ Currently Building</h2>
 </div>
 
 <br/>
 
 ```python
 class CurrentFocus:
-    systems_in_progress = [
-        "Multi-agent orchestration with shared memory & tool routing",
-        "Async-first SaaS backend with event-driven task queues",
+    systems = [
+        "Multi-agent orchestration pipelines with memory & tool use",
+        "Async-first SaaS backend architectures at scale",
         "AI-native automation replacing manual enterprise workflows",
-        "Schema-first API design with structured AI output validation",
+        "Schema-first API design with structured AI output layers",
     ]
 
-    philosophy = "Every system must survive production."
-    next_milestone = "Ship an agentic backend used by real teams at scale."
-```
+    philosophy = "Every system I build must survive production."
 
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=1&pause=999999&color=444444&center=true&vCenter=true&width=480&lines=System+Architecture+I'm+Actively+Designing" alt="Diagram label" />
-</div>
-
-<br/>
-
-```
-┌───────────────────────────────────────────────────────────────────────────┐
-│                  AGENTIC BACKEND SYSTEM — ARCHITECTURE                    │
-│                                                                           │
-│   ┌─────────────┐     ┌─────────────────────────────────────────────┐   │
-│   │  API Layer  │────▶│           Orchestrator Agent                │   │
-│   │  FastAPI    │     │  Plans · Routes · Delegates to sub-agents   │   │
-│   └─────────────┘     └─────────────┬──────────────────────────┬────┘   │
-│                                     │                          │        │
-│              ┌──────────────────────┼──────────────────────┐  │        │
-│              ▼                      ▼                      ▼  ▼        │
-│   ┌──────────────────┐  ┌──────────────────┐  ┌───────────────────┐   │
-│   │   Task Agent     │  │  Analysis Agent  │  │   Memory Agent    │   │
-│   │  (Celery Task)   │  │  (AI + Prompts)  │  │ (Vector + Cache)  │   │
-│   └────────┬─────────┘  └────────┬─────────┘  └────────┬──────────┘   │
-│            │                     │                     │               │
-│            └─────────────────────┼─────────────────────┘               │
-│                                  ▼                                      │
-│   ┌───────────────────────────────────────────────────────────────┐    │
-│   │                     Redis Message Broker                       │    │
-│   │           Task queue  ·  Pub/Sub  ·  Session cache             │    │
-│   └───────────────────────────┬───────────────────────────────────┘    │
-│                                │                                        │
-│          ┌─────────────────────┼─────────────────────┐                 │
-│          ▼                     ▼                     ▼                  │
-│  ┌──────────────┐   ┌──────────────────┐  ┌──────────────────┐        │
-│  │  PostgreSQL  │   │   Object Store   │  │  External APIs   │        │
-│  │  (Core Data) │   │  (Files/Media)   │  │ (OpenAI / n8n)   │        │
-│  └──────────────┘   └──────────────────┘  └──────────────────┘        │
-│                                                                         │
-│  Principles:                                                            │
-│  ├── Async by default     →  No blocking in the hot path               │
-│  ├── Agent isolation      →  Each agent fails independently            │
-│  ├── Schema-first data    →  Validated structured outputs everywhere   │
-│  └── Observable           →  Every task emits logs + metrics           │
-└───────────────────────────────────────────────────────────────────────────┘
+    next_milestone = "Ship a production-grade agentic backend used by real teams."
 ```
 
 <br/>
@@ -297,73 +310,22 @@ class CurrentFocus:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                WRITING                     -->
-<!-- ═══════════════════════════════════════════ -->
-
+<!-- WRITING / BLOG -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=0A0A0A&center=true&vCenter=true&width=180&lines=▸+Writing" alt="Writing" />
-<br/>
-<sub><i>Secure & Scalable Backend Engineering</i></sub>
+  <h2>⬛ Writing</h2>
+  <p><i>Secure & Scalable Backend Engineering</i></p>
 </div>
 
 <br/>
 
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
+> 📝 **How I Structure Celery Pipelines That Don't Break Under Load**
+> *A deep dive into task routing, retry strategies, and failure isolation in production.*
 
-<tr>
-<td width="5%" align="center" valign="top">
-<br/>
-<b>01</b>
-</td>
-<td width="95%" valign="top">
+> 📝 **Multi-Tenancy at the Database Level: Row-Level vs Schema-Level Isolation**
+> *When to use which, and why getting it wrong costs you a rewrite.*
 
-**How I Structure Celery Pipelines That Don't Break Under Load**
-
-`#celery` `#redis` `#async` `#backend`
-
-Most tutorials show you how to *start* Celery. This one shows you how to keep it alive — task routing, retry strategies, and failure isolation in production.
-
-</td>
-</tr>
-
-<tr><td colspan="2"><hr/></td></tr>
-
-<tr>
-<td width="5%" align="center" valign="top">
-<br/>
-<b>02</b>
-</td>
-<td width="95%" valign="top">
-
-**Multi-Tenancy at the Database Level: Row-Level vs Schema-Level Isolation**
-
-`#multitenancy` `#postgresql` `#saas` `#systemdesign`
-
-When to use which model — and why getting it wrong forces a full rewrite six months in. A decision framework with real trade-offs.
-
-</td>
-</tr>
-
-<tr><td colspan="2"><hr/></td></tr>
-
-<tr>
-<td width="5%" align="center" valign="top">
-<br/>
-<b>03</b>
-</td>
-<td width="95%" valign="top">
-
-**Building AI Agents That Work in Real Systems (Not Just Demos)**
-
-`#agents` `#openai` `#prompting` `#production`
-
-The gap between a demo and a deployed agent is an architecture problem. Prompting discipline, structured outputs, and integrating agents into async pipelines.
-
-</td>
-</tr>
-
-</table>
+> 📝 **Building AI Agents That Work in Real Systems (Not Just Demos)**
+> *Prompting discipline, structured outputs, and integrating agents into async pipelines.*
 
 <br/>
 
@@ -371,30 +333,45 @@ The gap between a demo and a deployed agent is an architecture problem. Promptin
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              CONNECT SECTION               -->
-<!-- ═══════════════════════════════════════════ -->
-
+<!-- ACTIVITY GIF -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=999999&color=0A0A0A&center=true&vCenter=true&width=230&lines=▸+Let's+Connect" alt="Connect" />
-
-<br/><br/>
-
-<p>Interested in backend roles, AI/agent systems, and ambitious SaaS products.<br/>If you're building something real — let's talk.</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF" style="border-radius: 8px;" />
+  <br/>
+  <sub><i>Turning system diagrams into production code.</i></sub>
+</div>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairwaseem390@gmail.com)
+---
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Uzair-Waseem-390&color=000000&style=flat-square&label=Profile+Views" />
+<!-- CONNECT -->
+<div align="center">
+  <h2>⬛ Let's Connect</h2>
+  <br/>
+
+  <p>I'm interested in backend roles, AI/agent systems, and ambitious SaaS products.</p>
+  <p>If you're building something real — let's talk.</p>
+
+  <br/>
+
+  [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
+  &nbsp;
+  [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairwaseem390@gmail.com)
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Uzair-Waseem-390&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%" />
+---
+
+<div align="center">
+  <sub>
+    Designed with precision. Built with purpose. &nbsp;·&nbsp; <b>Uzair Waseem</b> &nbsp;·&nbsp; Pakistan 🇵🇰
+  </sub>
+</div>
