@@ -348,12 +348,6 @@ Multi-Branch School Network
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=Uzair-Waseem-390&theme=default&hide_border=true&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A&dates=666666&sideNums=0A0A0A&sideLabels=555555&currStreakNum=0A0A0A" alt="GitHub Streak" />
 
-<br/><br/>
-
-<!-- Stats card + top langs side by side -->
-<img src="https://github-readme-stats.demolab.com/api?username=Uzair-Waseem-390&show_icons=true&hide_border=true&title_color=0a0a0a&icon_color=0a0a0a&text_color=333333&bg_color=ffffff&hide=prs&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Uzair-Waseem-390&layout=compact&hide_border=true&title_color=0a0a0a&text_color=333333&bg_color=ffffff&langs_count=6&cache_seconds=1800" alt="Top Languages" height="155"/>
 
 <br/><br/>
 
