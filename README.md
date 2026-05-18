@@ -1,5 +1,5 @@
 <!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=Uzair%20Waseem&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Backend%20%26%20Agentic%20AI%20Developer&descSize=16&descAlignY=85&descColor=aaaaaa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,100:1a1a2e&amp;height=120&amp;section=header&amp;text=Uzair%20Waseem&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn&amp;desc=Backend%20%26%20Agentic%20AI%20Developer&amp;descSize=16&amp;descAlignY=85&amp;descColor=aaaaaa" />
 
 <div align="center">
 
@@ -351,9 +351,9 @@ Multi-Branch School Network
 <br/><br/>
 
 <!-- Stats card + top langs side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=Uzair-Waseem-390&show_icons=true&hide_border=true&title_color=0a0a0a&icon_color=0a0a0a&text_color=333333&bg_color=ffffff&hide=prs&count_private=true" alt="GitHub Stats" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Waseem-390&layout=compact&hide_border=true&title_color=0a0a0a&text_color=333333&bg_color=ffffff&langs_count=6" alt="Top Languages" height="150"/>
+<img src="https://github-readme-stats.demolab.com/api?username=Uzair-Waseem-390&show_icons=true&hide_border=true&title_color=0a0a0a&icon_color=0a0a0a&text_color=333333&bg_color=ffffff&hide=prs&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Uzair-Waseem-390&layout=compact&hide_border=true&title_color=0a0a0a&text_color=333333&bg_color=ffffff&langs_count=6&cache_seconds=1800" alt="Top Languages" height="155"/>
 
 <br/><br/>
 
@@ -458,7 +458,7 @@ class CurrentFocus:
 <br/>
 
 <!-- ANIMATED WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:0a0a0a&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
 
 <div align="center">
   <sub>
