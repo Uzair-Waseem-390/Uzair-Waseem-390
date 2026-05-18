@@ -1,5 +1,5 @@
 <!-- ANIMATED WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,100:1a1a2e&amp;height=120&section=header&amp;text=Uzair%20Waseem&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Backend%20%26%20Agentic%20AI%20Developer&descSize=16&descAlignY=85&amp;descColor=aaaaaa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,100:1a1a2e&amp;height=120&amp;section=header&amp;text=Uzair%20Waseem&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=65&amp;animation=fadeIn&amp;desc=Backend%20%26%20Agentic%20AI%20Developer&amp;descSize=16&amp;descAlignY=85&amp;descColor=aaaaaa" />
 <div align="center">
 
 <!-- ANIMATED TYPING HERO -->
