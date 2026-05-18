@@ -1,6 +1,5 @@
 <!-- ANIMATED WAVE HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=2800&pause=1000&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=720&height=56&lines=..." />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,100:1a1a2e&amp;height=120&section=header&amp;text=Uzair%20Waseem&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Backend%20%26%20Agentic%20AI%20Developer&descSize=16&descAlignY=85&amp;descColor=aaaaaa" />
 <div align="center">
 
 <!-- ANIMATED TYPING HERO -->
