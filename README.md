@@ -438,7 +438,7 @@ class CurrentFocus:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/uzair-waseem-digital/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-waseem-digital/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairwaseem390@gmail.com)
 
