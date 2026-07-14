@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:0a0a0a&amp;height=180&amp;section=header&amp;text=UZAIR%20WASEEM&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=Backend%20%26%20Agentic%20AI%20Developer&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:0a0a0a&amp;height=180&amp;section=header&amp;text=UZAIR%20WASEEM&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=Backend%20and%20Agentic%20AI%20Developer&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50" alt="header" />
 
 <a href="https://github.com/Uzair-Waseem-390">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;height=56&amp;lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+not+just+features.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents.;FIFO+ledgers.+WebSocket+chat.+Production-grade+auth." alt="Typing SVG" />
@@ -412,17 +412,7 @@ Multi-Branch School Network
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Uzair-Waseem-390&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;title_color=0A0A0A&amp;text_color=555555&amp;icon_color=0A0A0A&amp;bg_color=00000000" alt="GitHub Stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Waseem-390&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;title_color=0A0A0A&amp;text_color=555555&amp;bg_color=00000000" alt="Top Languages" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Uzair-Waseem-390&amp;theme=default&amp;hide_border=true&amp;ring=0A0A0A&amp;fire=0A0A0A&amp;currStreakLabel=0A0A0A&amp;dates=666666&amp;sideNums=0A0A0A&amp;sideLabels=555555&amp;currStreakNum=0A0A0A" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Uzair-Waseem-390&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7&amp;title=Commits,PullRequest,Repositories,Stars,Followers" alt="GitHub Trophies" />
 
 <br/><br/>
 
