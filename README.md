@@ -1,47 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0a0a0a&height=180&section=header&text=UZAIR%20WASEEM&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Backend%20%26%20Agentic%20AI%20Developer&descAlignY=62&descSize=18&descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:0a0a0a&amp;height=180&amp;section=header&amp;text=UZAIR%20WASEEM&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=Backend%20%26%20Agentic%20AI%20Developer&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50" alt="header" />
 
 <a href="https://github.com/Uzair-Waseem-390">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=2800&pause=1000&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=720&height=56&lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+not+just+features.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents.;FIFO+ledgers.+WebSocket+chat.+Production-grade+auth." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;height=56&amp;lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+not+just+features.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents.;FIFO+ledgers.+WebSocket+chat.+Production-grade+auth." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=400&size=14&duration=5000&pause=3000&color=666666&background=FFFFFF00&center=true&vCenter=true&width=640&height=28&lines=%E2%80%9CScalability+isn%27t+added+later.+It%27s+designed+from+the+start.%E2%80%9D" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=400&amp;size=14&amp;duration=5000&amp;pause=3000&amp;color=666666&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=28&amp;lines=%E2%80%9CScalability+isn%27t+added+later.+It%27s+designed+from+the+start.%E2%80%9D" alt="Quote" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
+[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-waseem-digital/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/uzair-waseem-digital/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairwaseem390@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:uzairwaseem390@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%232EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Uzair-Waseem-390)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%232EA44F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://github.com/Uzair-Waseem-390)
 &nbsp;
 [![Pakistan](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0%20Pakistan-white?style=for-the-badge)](https://github.com/Uzair-Waseem-390)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%232EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Uzair-Waseem-390)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%232EA44F?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white)](https://github.com/Uzair-Waseem-390)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Uzair-Waseem-390&color=0a0a0a&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**[About](#-about-me)** &nbsp;·&nbsp;
-**[Tech Stack](#-tech-stack)** &nbsp;·&nbsp;
-**[Projects](#-featured-projects)** &nbsp;·&nbsp;
-**[Philosophy](#-system-design-philosophy)** &nbsp;·&nbsp;
-**[Stats](#-github-stats)** &nbsp;·&nbsp;
-**[Building](#-currently-building)** &nbsp;·&nbsp;
-**[Writing](#-writing)** &nbsp;·&nbsp;
-**[Connect](#-lets-connect)**
+<img src="https://komarev.com/ghpvc/?username=Uzair-Waseem-390&amp;color=0a0a0a&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -53,16 +38,16 @@
 
 <!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=300&height=36&lines=%E2%AC%9B+About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=300&amp;height=36&amp;lines=%E2%AC%9B+About+Me" alt="About Me" />
 </div>
 
 <br/>
 
 ```
-  Role     →  Backend & Agentic AI Developer
+  Role     →  Backend &amp; Agentic AI Developer
   Focus    →  System Design · Async Pipelines · SaaS Architecture
   Stack    →  Python · Django · FastAPI · Redis · Celery · PostgreSQL
-  Current  →  Shipping AlphaPK & GazaBridge to production
+  Current  →  Shipping AlphaPK &amp; GazaBridge to production
   Belief   →  "Scalability isn't added later. It's designed from the start."
 ```
 
@@ -79,37 +64,37 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=300&height=36&lines=%E2%AC%9B+Tech+Stack" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=300&amp;height=36&amp;lines=%E2%AC%9B+Tech+Stack" alt="Tech Stack" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,react&theme=light&perline=8" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react&amp;theme=light&amp;perline=8" alt="Frameworks" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,github&theme=light&perline=8" alt="Infra" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,github&amp;theme=light&amp;perline=8" alt="Infra" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=openai,vscode,linux,git&theme=light&perline=8" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=openai,vscode,linux,git&amp;theme=light&amp;perline=8" alt="Tools" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&amp;logo=celery&amp;logoColor=white" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Django%20Channels-092E20?style=flat-square&logo=django&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Django%20Channels-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/WeasyPrint-5C2D91?style=flat-square&logo=readthedocs&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/WeasyPrint-5C2D91?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/n8n-EF6C57?style=flat-square&logo=n8n&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/n8n-EF6C57?style=flat-square&amp;logo=n8n&amp;logoColor=white" height="32"/>
 &nbsp;
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&amp;logo=openapiinitiative&amp;logoColor=white" height="32"/>
 
 </div>
 
@@ -121,9 +106,9 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=380&height=36&lines=%E2%AC%9B+Featured+Projects" alt="Featured Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=380&amp;height=36&amp;lines=%E2%AC%9B+Featured+Projects" alt="Featured Projects" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=400&size=13&duration=4500&pause=2000&color=888888&background=FFFFFF00&center=true&vCenter=true&width=560&height=24&lines=Systems+built+to+solve+real+problems+at+scale.;Architecture+designed+before+the+first+line+of+code.;Production+grade.+Not+demo+grade." alt="Subtext" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=400&amp;size=13&amp;duration=4500&amp;pause=2000&amp;color=888888&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=24&amp;lines=Systems+built+to+solve+real+problems+at+scale.;Architecture+designed+before+the+first+line+of+code.;Production+grade.+Not+demo+grade." alt="Subtext" />
 </div>
 
 <br/>
@@ -182,8 +167,8 @@ backend/
 
 **Stack:** `Django` · `DRF` · `Channels` · `Celery` · `Redis` · `PostgreSQL` · `JWT` · `React`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/GazaBridge)
-[![API Docs](https://img.shields.io/badge/API%20Docs-OpenAPI-%236BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://github.com/Uzair-Waseem-390/GazaBridge)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/GazaBridge)
+[![API Docs](https://img.shields.io/badge/API%20Docs-OpenAPI-%236BA539?style=for-the-badge&amp;logo=openapiinitiative&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/GazaBridge)
 
 </td>
 </tr>
@@ -193,7 +178,7 @@ backend/
 
 <!-- ─────────────── ALPHAPK — FULL WIDTH HERO ─────────────── -->
 
-### 📦 AlphaPK — Wholesale Inventory & Accounting System
+### 📦 AlphaPK — Wholesale Inventory &amp; Accounting System
 
 > *A backend for wholesale/retail distribution and accounting — inventory, purchasing, invoicing, payments, returns, and financial reporting.*
 
@@ -244,7 +229,7 @@ backend/
 
 **Stack:** `Django` · `DRF` · `PostgreSQL` · `SimpleJWT` · `WeasyPrint` · `React`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/AlphaPK)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/AlphaPK)
 
 </td>
 </tr>
@@ -286,7 +271,7 @@ Filtered Job Feed + Email
 
 **Stack:** `Django` · `React` · `Celery Beat` · `Redis` · `PostgreSQL` · `AI`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/PathWeaver)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/PathWeaver)
 
 </td>
 
@@ -315,7 +300,7 @@ Business Requirements (text)
 
 **Stack:** `Django` · `React` · `Celery` · `Redis` · `OpenAI API`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Virelix)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/Virelix)
 
 </td>
 </tr>
@@ -348,7 +333,7 @@ Production-Ready Schema
 
 **Stack:** `FastAPI` · `React` · `OpenAI SDK`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/Datavo)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/Datavo)
 
 </td>
 
@@ -377,7 +362,7 @@ Multi-Branch School Network
 
 **Stack:** `Django` · `PostgreSQL`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/SMS)
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/SMS)
 
 </td>
 </tr>
@@ -391,7 +376,7 @@ Multi-Branch School Network
 
 <!-- ═══════════════════════════ PHILOSOPHY ═══════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=420&height=36&lines=%E2%AC%9B+System+Design+Philosophy" alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=36&amp;lines=%E2%AC%9B+System+Design+Philosophy" alt="Philosophy" />
 </div>
 
 <br/>
@@ -423,21 +408,21 @@ Multi-Branch School Network
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=300&height=36&lines=%E2%AC%9B+GitHub+Stats" alt="Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=300&amp;height=36&amp;lines=%E2%AC%9B+GitHub+Stats" alt="Stats" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Uzair-Waseem-390&show_icons=true&hide_border=true&theme=default&title_color=0A0A0A&text_color=555555&icon_color=0A0A0A&bg_color=00000000" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Uzair-Waseem-390&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;title_color=0A0A0A&amp;text_color=555555&amp;icon_color=0A0A0A&amp;bg_color=00000000" alt="GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Waseem-390&layout=compact&hide_border=true&theme=default&title_color=0A0A0A&text_color=555555&bg_color=00000000" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Waseem-390&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;title_color=0A0A0A&amp;text_color=555555&amp;bg_color=00000000" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Uzair-Waseem-390&theme=default&hide_border=true&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A&dates=666666&sideNums=0A0A0A&sideLabels=555555&currStreakNum=0A0A0A" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Uzair-Waseem-390&amp;theme=default&amp;hide_border=true&amp;ring=0A0A0A&amp;fire=0A0A0A&amp;currStreakLabel=0A0A0A&amp;dates=666666&amp;sideNums=0A0A0A&amp;sideLabels=555555&amp;currStreakNum=0A0A0A" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Uzair-Waseem-390&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,PullRequest,Repositories,Stars,Followers" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Uzair-Waseem-390&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7&amp;title=Commits,PullRequest,Repositories,Stars,Followers" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -460,7 +445,7 @@ Multi-Branch School Network
 
 <!-- ═══════════════════════════ CURRENTLY BUILDING ═══════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=360&height=36&lines=%E2%AC%9B+Currently+Building" alt="Currently Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=36&amp;lines=%E2%AC%9B+Currently+Building" alt="Currently Building" />
 </div>
 
 <br/>
@@ -469,19 +454,19 @@ Multi-Branch School Network
 class CurrentFocus:
 
     active = {
-        "AlphaPK":    "Extending FIFO ledger reporting & deployment hardening",
+        "AlphaPK":    "Extending FIFO ledger reporting &amp; deployment hardening",
         "GazaBridge": "Shipping to production — live sessions, deployment, monitoring",
     }
 
     next_builds = [
-        "Multi-agent orchestration pipelines with memory & tool use",
+        "Multi-agent orchestration pipelines with memory &amp; tool use",
         "Async-first SaaS backend templates (open source)",
         "AI-native automation replacing manual enterprise workflows",
     ]
 
     philosophy = "Every system I build must survive production."
 
-    open_to    = "Backend engineering & AI systems roles — remote or Pakistan-based."
+    open_to    = "Backend engineering &amp; AI systems roles — remote or Pakistan-based."
 ```
 
 <br/>
@@ -492,9 +477,9 @@ class CurrentFocus:
 
 <!-- ═══════════════════════════ WRITING ═══════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=280&height=36&lines=%E2%AC%9B+Writing" alt="Writing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=280&amp;height=36&amp;lines=%E2%AC%9B+Writing" alt="Writing" />
   <br/>
-  <sub><i>Secure & Scalable Backend Engineering</i></sub>
+  <sub><i>Secure &amp; Scalable Backend Engineering</i></sub>
 </div>
 
 <br/>
@@ -523,29 +508,29 @@ class CurrentFocus:
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=18&duration=3000&pause=99999&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&width=300&height=36&lines=%E2%AC%9B+Let%27s+Connect" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=600&amp;size=18&amp;duration=3000&amp;pause=99999&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=300&amp;height=36&amp;lines=%E2%AC%9B+Let%27s+Connect" alt="Connect" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=400&size=14&duration=4000&pause=2500&color=555555&background=FFFFFF00&center=true&vCenter=true&width=560&height=28&lines=I%27m+interested+in+backend+roles%2C+AI+systems%2C+and+ambitious+SaaS+products.;If+you%27re+building+something+real+%E2%80%94+let%27s+talk." alt="Connect subtext" />
+<img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=400&amp;size=14&amp;duration=4000&amp;pause=2500&amp;color=555555&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=28&amp;lines=I%27m+interested+in+backend+roles%2C+AI+systems%2C+and+ambitious+SaaS+products.;If+you%27re+building+something+real+%E2%80%94+let%27s+talk." alt="Connect subtext" />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
+[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-waseem-digital/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/uzair-waseem-digital/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairwaseem390@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:uzairwaseem390@gmail.com)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Uzair-Waseem-390&color=000000&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Uzair-Waseem-390&amp;color=000000&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:0a0a0a&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
 
 <div align="center">
   <sub>
