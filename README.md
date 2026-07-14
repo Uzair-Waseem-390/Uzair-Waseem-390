@@ -1,25 +1,24 @@
-<!-- ANIMATED WAVE HEADER -->
-
 <div align="center">
 
-<!-- ANIMATED TYPING HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0a0a0a&height=180&section=header&text=UZAIR%20WASEEM&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Backend%20%26%20Agentic%20AI%20Developer&descAlignY=62&descSize=18&descAlign=50" alt="header" />
+
 <a href="https://github.com/Uzair-Waseem-390">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=2800&pause=1000&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=720&height=56&lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+not+just+features.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=26&duration=2800&pause=1000&color=0A0A0A&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=720&height=56&lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+not+just+features.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents.;FIFO+ledgers.+WebSocket+chat.+Production-grade+auth." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ANIMATED QUOTE -->
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=400&size=14&duration=5000&pause=3000&color=666666&background=FFFFFF00&center=true&vCenter=true&width=640&height=28&lines=%E2%80%9CScalability+isn%27t+added+later.+It%27s+designed+from+the+start.%E2%80%9D" alt="Quote" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-waseem-digital/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzairwaseem390@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%232EA44F?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Uzair-Waseem-390)
 &nbsp;
 [![Pakistan](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0%20Pakistan-white?style=for-the-badge)](https://github.com/Uzair-Waseem-390)
 &nbsp;
@@ -28,6 +27,21 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Uzair-Waseem-390&color=0a0a0a&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**[About](#-about-me)** &nbsp;·&nbsp;
+**[Tech Stack](#-tech-stack)** &nbsp;·&nbsp;
+**[Projects](#-featured-projects)** &nbsp;·&nbsp;
+**[Philosophy](#-system-design-philosophy)** &nbsp;·&nbsp;
+**[Stats](#-github-stats)** &nbsp;·&nbsp;
+**[Building](#-currently-building)** &nbsp;·&nbsp;
+**[Writing](#-writing)** &nbsp;·&nbsp;
+**[Connect](#-lets-connect)**
 
 </div>
 
@@ -48,13 +62,13 @@
   Role     →  Backend & Agentic AI Developer
   Focus    →  System Design · Async Pipelines · SaaS Architecture
   Stack    →  Python · Django · FastAPI · Redis · Celery · PostgreSQL
-  Current  →  Shipping GazaBridge to production
+  Current  →  Shipping AlphaPK & GazaBridge to production
   Belief   →  "Scalability isn't added later. It's designed from the start."
 ```
 
 I design and build backend infrastructure that scales — from async task pipelines to multi-tenant SaaS platforms to AI agent systems that replace entire manual workflows.
 
-My work sits at the intersection of **distributed systems**, **AI automation**, and **real-world product engineering**.
+My work sits at the intersection of **distributed systems**, **AI automation**, and **real-world product engineering**. I care less about demo-ready and more about production-ready: FIFO-accurate ledgers, token-revocable auth, and rate limiters that survive a spike, not just a screenshot.
 
 <br/>
 
@@ -83,11 +97,15 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="32"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Django%20Channels-092E20?style=flat-square&logo=django&logoColor=white" height="32"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" height="32"/>
 &nbsp;
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="32"/>
 &nbsp;
 <img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" height="32"/>
+&nbsp;
+<img src="https://img.shields.io/badge/WeasyPrint-5C2D91?style=flat-square&logo=readthedocs&logoColor=white" height="32"/>
 &nbsp;
 <img src="https://img.shields.io/badge/n8n-EF6C57?style=flat-square&logo=n8n&logoColor=white" height="32"/>
 &nbsp;
@@ -110,11 +128,11 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 
 <br/>
 
-<!-- ─────────────── GAZEBRIDGE — FULL WIDTH HERO ─────────────── -->
+<!-- ─────────────── GAZABRIDGE — FULL WIDTH HERO ─────────────── -->
 
 ### 🌍 GazaBridge — Humanitarian API Platform
 
-> *Connecting Palestinian individuals with global volunteers offering mentorship, courses, live sessions, and resources.*
+> *Connecting Palestinian individuals with global volunteers offering mentorship, courses, live sessions, real-time chat, and resources.*
 
 <table width="100%">
 <tr>
@@ -125,15 +143,15 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 **The system:** A full-stack platform (Django DRF + React) with a production-grade backend — not a tutorial project. Every layer designed with isolation, security, and scale.
 
 **Architecture highlights:**
-- 🔐 JWT auth with **Redis-based token blacklisting** — instant revocation on logout
-- 🗂️ **3-partition Redis** — fully isolated: broker · API cache · rate limiter
+- 💬 **Real-time WebSocket chat** (group + 1:1) via **Django Channels** + `channels_redis`
+- 🔑 **Google OAuth2** login alongside a custom JWT scheme with **manual Redis-based refresh-token rotation**
+- 🗂️ **Isolated Redis partitions** — broker · API cache · rate limiter · token blacklist, never one flat pool
 - ⚡ **Celery** async pipeline — email flows without blocking the request cycle
 - 🛡️ Custom **sliding-window rate limiter** (100 req/min auth · 20 req/min anon)
 - 🔒 **IP spoofing prevention** — trusted proxy validation via `X-Forwarded-For`
-- 🔑 **Google OAuth2** social login + Gmail SMTP transactional email
 - 🐘 **Supabase PostgreSQL** via PgBouncer connection pooler (port 6543)
 - 📖 Auto-generated **OpenAPI 3.0** docs via `drf-spectacular`
-- 🧩 **6 backend modules:** users · auth · posts · courses · live sessions · resources
+- 🧩 **10 backend modules:** users · auth · chat · posts · courses · live sessions · resources · notifications · admin · forget-password
 
 </td>
 <td width="45%" valign="top">
@@ -152,18 +170,81 @@ Redis  localhost:6379
 backend/
  ├── users/            profiles, roles
  ├── auth_app/         JWT, OAuth2, blacklist
+ ├── chat/             Channels WebSocket chat
  ├── forget_password/  Celery email tasks
  ├── posts/            community feed
  ├── courses/          learning platform
  ├── live_sections/    live sessions
  ├── resources/        curated content
+ ├── notifications/    user notifications
  └── admin_app/        admin panel
 ```
 
-**Stack:** `Django` · `DRF` · `Celery` · `Redis` · `PostgreSQL` · `Supabase` · `JWT` · `React`
+**Stack:** `Django` · `DRF` · `Channels` · `Celery` · `Redis` · `PostgreSQL` · `JWT` · `React`
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/GazaBridge)
 [![API Docs](https://img.shields.io/badge/API%20Docs-OpenAPI-%236BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://github.com/Uzair-Waseem-390/GazaBridge)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────── ALPHAPK — FULL WIDTH HERO ─────────────── -->
+
+### 📦 AlphaPK — Wholesale Inventory & Accounting System
+
+> *A backend for wholesale/retail distribution and accounting — inventory, purchasing, invoicing, payments, returns, and financial reporting.*
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+**The problem:** Wholesale trading businesses need real accounting correctness — not just CRUD — when purchases, returns, and sales all touch the same inventory at different costs.
+
+**The system:** A Django DRF backend with a disciplined **selectors/services layer** per app (no fat views), built for a real Pakistani wholesale/retail operation with local payment methods.
+
+**Architecture highlights:**
+- 📊 **FIFO ledger** tracking real inventory costing across purchases and returns — genuine accounting correctness under concurrent activity
+- 🧱 **Layered architecture** per app: `selectors.py` (reads) → `services.py` (mutations) → `serializers.py` → `views.py`
+- 🔑 **Custom email-as-primary-key** user model with role-derived permissions
+- 🧾 **WeasyPrint-generated PDF invoices** with auto bill numbering (`BILL-2026-0001`)
+- 💳 **JazzCash / Easypaisa** local payment method support
+- ♻️ Soft-delete + full audit trail (`created_by` / `updated_by` / `deleted_by`) via a shared `AuditMixin`
+- 🧩 **8 backend modules:** users · purchases · rates · billing · cash_flow · ledger · reports · data_entry
+
+</td>
+<td width="45%" valign="top">
+
+**FIFO costing flow:**
+```
+Purchase Batch A (cost $X)
+Purchase Batch B (cost $Y)
+         ↓
+   Invoice Item sold
+         ↓
+FIFOLedger consumes oldest
+batch first — accurate COGS
+snapshotted at confirmation
+```
+
+**Backend module layout:**
+```
+backend/
+ ├── users/         email-PK auth
+ ├── purchases/     products, suppliers, stock
+ ├── rates/         selling-price rate lists
+ ├── billing/        invoices, payments, returns
+ ├── cash_flow/     cash flow tracking
+ ├── ledger/        accounting ledger
+ ├── reports/       aggregated reporting
+ └── data_entry/    opening balances
+```
+
+**Stack:** `Django` · `DRF` · `PostgreSQL` · `SimpleJWT` · `WeasyPrint` · `React`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/AlphaPK)
 
 </td>
 </tr>
@@ -191,19 +272,19 @@ backend/
 ```
 Resume Upload
       ↓
-Celery Task Queue (Redis)
+Celery Beat Scheduler (Redis)
       ↓
 AI Compatibility Scorer
       ↓
-Filtered Job Feed
+Filtered Job Feed + Email
 ```
 
 - Async pipeline via **Celery + Redis**
 - Resume parsing + job match scoring
-- Scheduled scraping with dynamic filters
+- Celery Beat scheduled scraping every 24h
 - SaaS-ready architecture
 
-**Stack:** `Django` · `React` · `Celery` · `Redis` · `PostgreSQL` · `AI`
+**Stack:** `Django` · `React` · `Celery Beat` · `Redis` · `PostgreSQL` · `AI`
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzair-Waseem-390/PathWeaver)
 
@@ -321,10 +402,12 @@ Multi-Branch School Network
 ├────────────────────┬─────────────────────────────────────────────────┤
 │  Scalability       │  Horizontal by design, not by accident           │
 │  Async Pipelines   │  Celery + Redis — decouple everything that waits │
+│  Real-time         │  Django Channels — WebSockets where they matter  │
 │  AI Integration    │  Agents are workers inside orchestrated systems  │
 │  Data Modeling     │  Schema-first, migration-safe, query-optimized   │
+│  Financial Logic   │  FIFO costing, audit trails, no silent drift     │
 │  Multi-tenancy     │  Isolated from row 1 — not bolted on later       │
-│  Caching           │  3 logical partitions, never one flat Redis pool │
+│  Caching           │  Logical partitions, never one flat Redis pool   │
 │  Rate Limiting     │  Sliding-window, IP-aware, proxy-spoofing-safe   │
 │  Security          │  Token blacklisting, OAuth2, env-separated       │
 │  Observability     │  If you can't measure it, you can't fix it       │
@@ -344,9 +427,17 @@ Multi-Branch School Network
 
 <br/><br/>
 
-<!-- Streak -->
-<!-- <img src="https://streak-stats.demolab.com?user=Uzair-Waseem-390&theme=default&hide_border=true&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A&dates=666666&sideNums=0A0A0A&sideLabels=555555&currStreakNum=0A0A0A" alt="GitHub Streak" /> -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Uzair-Waseem-390&show_icons=true&hide_border=true&theme=default&title_color=0A0A0A&text_color=555555&icon_color=0A0A0A&bg_color=00000000" alt="GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Waseem-390&layout=compact&hide_border=true&theme=default&title_color=0A0A0A&text_color=555555&bg_color=00000000" alt="Top Languages" />
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Uzair-Waseem-390&theme=default&hide_border=true&ring=0A0A0A&fire=0A0A0A&currStreakLabel=0A0A0A&dates=666666&sideNums=0A0A0A&sideLabels=555555&currStreakNum=0A0A0A" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Uzair-Waseem-390&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,PullRequest,Repositories,Stars,Followers" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -378,6 +469,7 @@ Multi-Branch School Network
 class CurrentFocus:
 
     active = {
+        "AlphaPK":    "Extending FIFO ledger reporting & deployment hardening",
         "GazaBridge": "Shipping to production — live sessions, deployment, monitoring",
     }
 
@@ -407,11 +499,14 @@ class CurrentFocus:
 
 <br/>
 
-> 📝 **Why I Use 3 Redis Partitions Instead of One**
-> *How GazaBridge separates task brokering, API caching, and rate limiting into isolated logical DBs — and why mixing them is a hidden reliability risk.*
+> 📝 **Why I Use Isolated Redis Partitions Instead of One Flat Pool**
+> *How GazaBridge separates task brokering, API caching, rate limiting, and token blacklisting into isolated logical DBs — and why mixing them is a hidden reliability risk.*
 
 > 📝 **Building a Sliding-Window Rate Limiter From Scratch in Django**
 > *The custom GlobalRateLimitMiddleware: trusted proxy detection, IP spoofing prevention, Redis-backed counters, and why DRF's built-in throttling wasn't enough.*
+
+> 📝 **FIFO Inventory Costing: Making an Accounting Ledger Actually Correct**
+> *How AlphaPK's FIFOLedger consumes purchase batches in order and snapshots COGS at invoice confirmation — and what breaks if you get this wrong.*
 
 > 📝 **How I Structure Celery Pipelines That Don't Break Under Load**
 > *Task routing, retry strategies, result backends, and failure isolation in production async systems.*
@@ -450,8 +545,7 @@ class CurrentFocus:
 
 <br/>
 
-<!-- ANIMATED WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:0a0a0a&amp;height=100&amp;section=footer&amp;animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
 
 <div align="center">
   <sub>
