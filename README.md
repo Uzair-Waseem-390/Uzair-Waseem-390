@@ -48,7 +48,7 @@
   Focus    →  System Design · Async Pipelines · SaaS Architecture
   Stack    →  Python · Django · FastAPI · Redis · Celery · PostgreSQL
   Current  →  Shipping AlphaPK &amp; GazaBridge to production
-  Belief   →  "Scalability isn't added later. It's designed from the start."
+  Belief   →  "Scalability isn't added later. It's designed from the start"
 ```
 
 I design and build backend infrastructure that scales — from async task pipelines to multi-tenant SaaS platforms to AI agent systems that replace entire manual workflows.
