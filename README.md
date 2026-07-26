@@ -180,7 +180,7 @@ backend/
 
 ### 📦 AlphaPK — Wholesale Inventory &amp; Accounting System
 
-> *A backend for wholesale/retail distribution and accounting — inventory, purchasing, invoicing, payments, returns, and financial reporting.*
+> *A backend for wholesale/retail distribution and accounting — inventory, purchasing, invoicing, payments, returns, profits and financial reporting.*
 
 <table width="100%">
 <tr>
