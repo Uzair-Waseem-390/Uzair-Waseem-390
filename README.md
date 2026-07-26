@@ -117,7 +117,7 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 
 ### 🌍 GazaBridge — Humanitarian API Platform
 
-> *Connecting Palestinian individuals with global volunteers offering mentorship, courses, live sessions, real-time chat, and resources.*
+> *Connecting Palestinian individuals with global volunteers offering mentorship, courses, live sessions, real time chat, and resources.*
 
 <table width="100%">
 <tr>
