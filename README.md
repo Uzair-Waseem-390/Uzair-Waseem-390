@@ -252,7 +252,7 @@ backend/
 
 **The problem:** Job hunting is manual, slow, and completely unscalable as a human.
 
-**The system:** A fully automated AI pipeline — scrapes listings, parses resumes, scores compatibility, surfaces only what matches. Runs on schedule while you're offline.
+**The system:** A fully automated AI pipeline, scrapes listings, parses resumes, scores compatibility, surfaces only what matches. Runs on schedule while you're offline.
 
 ```
 Resume Upload
