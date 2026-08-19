@@ -217,7 +217,7 @@ snapshotted at confirmation
 **Backend module layout:**
 ```
 backend/
- ├── users/         email-PK auth
+ ├── users/         email(PK) auth
  ├── purchases/     products, suppliers, stock
  ├── rates/         selling-price rate lists
  ├── billing/        invoices, payments, returns
