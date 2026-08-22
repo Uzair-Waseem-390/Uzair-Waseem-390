@@ -193,7 +193,7 @@ backend/
 **Architecture highlights:**
 - 📊 **FIFO ledger** tracking real inventory costing across purchases and returns — genuine accounting correctness under concurrent activity
 - 🧱 **Layered architecture** per app: `selectors.py` (reads) → `services.py` (mutations) → `serializers.py` → `views.py`
-- 🔑 **Custom email-as-primary-key** user model with role derived permissions
+- 🔑 **Custom email as primary-key** user model with role derived permissions
 - 🧾 **WeasyPrint-generated PDF invoices** with auto bill numbering (`BILL-2026-0001`)
 - 💳 **JazzCash / Easypaisa** local payment method support
 - ♻️ Soft-delete + full audit trail (`created_by` / `updated_by` / `deleted_by`) via a shared `AuditMixin`
