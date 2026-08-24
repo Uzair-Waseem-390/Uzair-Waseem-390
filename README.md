@@ -125,7 +125,7 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 
 **The problem:** Palestinian individuals lack structured access to global mentors and educators during one of the most critical periods in recent history.
 
-**The system:** A full-stack platform (Django DRF + React) with a production grade backend — not a tutorial project. Every layer designed with isolation, security, and scale.
+**The system:** A full stack platform (Django DRF + React) with a production grade backend — not a tutorial project. Every layer designed with isolation, security, and scale.
 
 **Architecture highlights:**
 - 💬 **Real-time WebSocket chat** (group + 1:1) via **Django Channels** + `channels_redis`
