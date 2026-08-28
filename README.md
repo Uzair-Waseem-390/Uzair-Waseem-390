@@ -53,7 +53,7 @@
 
 I design and build backend infrastructure that scales from async task pipelines to multi tenant SaaS platforms to AI agent systems that replace entire manual workflows.
 
-My work sits at the intersection of **distributed systems**, **AI automation**, and **real world product engineering**. I care less about demo ready and more about production-ready: FIFO-accurate ledgers, token-revocable auth, and rate limiters that survive a spike, not just a screenshot.
+My work sits at the intersection of **distributed systems**, **AI automation**, and **real world product engineering**. I care less about demo ready and more about production ready: FIFO-accurate ledgers, token revocable auth, and rate limiters that survive a spike, not just a screenshot.
 
 <br/>
 
