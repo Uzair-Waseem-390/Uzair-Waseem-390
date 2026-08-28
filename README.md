@@ -186,7 +186,7 @@ backend/
 <tr>
 <td width="55%" valign="top">
 
-**The problem:** Wholesale trading businesses need real accounting correctness — not just CRUD — when purchases, returns, and sales all touch the same inventory at different costs.
+**The problem:** Wholesale trading businesses need real accounting correctness,not just CRUD — when purchases, returns, and sales all touch the same inventory at different costs.
 
 **The system:** A Django DRF backend with a disciplined **selectors/services layer** per app (no fat views), built for a real Pakistani wholesale/retail operation with local payment methods.
 
