@@ -281,7 +281,7 @@ Filtered Job Feed + Email
 
 **The problem:** Building an ERP from scratch takes months and costs a fortune most SMBs don't have.
 
-**The system:** Plain language business requirements → working, modular ERP system in hours. AI generation + clean architecture, not a prompt-and-pray approach.
+**The system:** Plain language business requirements → working, modular ERP system in hours. AI generation + clean architecture, not a prompt and pray approach.
 
 ```
 Business Requirements (text)
