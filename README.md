@@ -219,7 +219,7 @@ snapshotted at confirmation
 backend/
  ├── users/         email(PK) auth
  ├── purchases/     products, suppliers, stock
- ├── rates/         selling-price rate lists
+ ├── rates/         selling price rate lists
  ├── billing/        invoices, payments, returns
  ├── cash_flow/     cash flow tracking
  ├── ledger/        accounting ledger
@@ -281,7 +281,7 @@ Filtered Job Feed + Email
 
 **The problem:** Building an ERP from scratch takes months and costs a fortune most SMBs don't have.
 
-**The system:** Plain-language business requirements → working, modular ERP system in hours. AI generation + clean architecture, not a prompt-and-pray approach.
+**The system:** Plain language business requirements → working, modular ERP system in hours. AI generation + clean architecture, not a prompt-and-pray approach.
 
 ```
 Business Requirements (text)
@@ -343,7 +343,7 @@ Production-Ready Schema
 
 **The problem:** Pakistani educational institutions run on spreadsheets, WhatsApp groups, and manual registers.
 
-**The system:** A full multi-tenant SaaS platform with real institutional logic. Real finance workflows. Not a CRUD demo.
+**The system:** A full multi tenant SaaS platform with real institutional logic. Real finance workflows. Not a CRUD demo.
 
 ```
 Multi-Branch School Network
