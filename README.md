@@ -219,7 +219,7 @@ snapshotted at confirmation
 backend/
  ├── users/         email(PK) auth
  ├── purchases/     products, suppliers, stock
- ├── rates/         selling price rate lists
+ ├── rates/         selling price and rate lists
  ├── billing/        invoices, payments, returns
  ├── cash_flow/     cash flow tracking
  ├── ledger/        accounting ledger
