@@ -128,7 +128,7 @@ My work sits at the intersection of **distributed systems**, **AI automation**, 
 **The system:** A full stack platform (Django DRF + React) with a production grade backend, not a tutorial project. Every layer designed with isolation, security, and scale.
 
 **Architecture highlights:**
-- 💬 **Real-time WebSocket chat** (group + 1:1) via **Django Channels** + `channels_redis`
+- 💬 **Real time WebSocket chat** (group + 1:1) via **Django Channels** + `channels_redis`
 - 🔑 **Google OAuth2** login alongside a custom JWT scheme with **manual Redis-based refresh-token rotation**
 - 🗂️ **Isolated Redis partitions** — broker · API cache · rate limiter · token blacklist, never one flat pool
 - ⚡ **Celery** async pipeline — email flows without blocking the request cycle
