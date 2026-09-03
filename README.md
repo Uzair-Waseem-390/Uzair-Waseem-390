@@ -314,7 +314,7 @@ Business Requirements (text)
 
 **The problem:** Most devs design schemas by guessing. Ambiguous requirements → schema rewrites → wasted sprints.
 
-**The system:** Asks first. Generates second. A conversational AI agent with a clarification loop before any output — structured outputs, no hallucinations.
+**The system:** Asks first. Generates second. A conversational AI agent with a clarification loop before any output, structured outputs, no hallucinations.
 
 ```
 User Describes Data Model
