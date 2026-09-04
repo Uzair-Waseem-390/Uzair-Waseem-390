@@ -294,9 +294,9 @@ Business Requirements (text)
 ```
 
 - RBAC built in from row 1
-- Multi-tenant by default
-- AI-assisted module generation
-- Modular — not a monolith
+- Multi tenant by default
+- AI assisted module generation
+- Modular, not a monolith
 
 **Stack:** `Django` · `React` · `Celery` · `Redis` · `OpenAI API`
 
