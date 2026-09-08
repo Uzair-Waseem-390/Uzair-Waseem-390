@@ -445,7 +445,7 @@ class CurrentFocus:
 
     active = {
         "AlphaPK":    "Extending FIFO ledger reporting &amp; deployment hardening",
-        "GazaBridge": "Shipping to production — live sessions, deployment, monitoring",
+        "GazaBridge": "Shipping to production, live sessions, deployment, monitoring",
     }
 
     next_builds = [
