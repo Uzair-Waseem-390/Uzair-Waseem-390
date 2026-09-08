@@ -288,7 +288,7 @@ Business Requirements (text)
           ↓
    AI Module Generator
           ↓
-  RBAC + Multi-tenant ERP
+  RBAC + Multi tenant ERP
           ↓
    Modular, Deployable System
 ```
