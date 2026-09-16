@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:0a0a0a&amp;height=180&amp;section=header&amp;text=UZAIR%20WASEEM&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=Technical%20Team%20Lead%20%26%20Agentic%20AI%20Developer&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:0a0a0a&amp;height=180&amp;section=header&amp;text=UZAIR%20WASEEM&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=Technical%20Team%20Lead%20and%20Agentic%20AI%20Developer&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50" alt="header" />
 
 <a href="https://github.com/Uzair-Waseem-390">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;height=56&amp;lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Technical+Team+Lead+%40+GazaBridge;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+lead+teams%2C+and+ship+production.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents.;FIFO+ledgers.+WebSocket+chat.+Production-grade+auth." alt="Typing SVG" />
