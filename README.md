@@ -44,10 +44,10 @@
 <br/>
 
 ```
-  Role     →  Technical Team Lead @ GazaBridge · Backend &amp; Agentic AI Developer
+  Role     →  Technical Team Lead @ GazaBridge · Backend & Agentic AI Developer
   Focus    →  System Design · Team Leadership · Async Pipelines · SaaS Architecture
   Stack    →  Python · Django · FastAPI · Redis · Celery · PostgreSQL
-  Leading  →  Engineering team, full site ownership &amp; social media at GazaBridge
+  Leading  →  Engineering team, full site ownership & social media at GazaBridge
   Shipped  →  AlphaPK · Alfa · Kerala Industries — live in production for real clients
   Belief   →  "Scalability isn't added later. It's designed from the start"
 ```
@@ -508,14 +508,14 @@ class CurrentFocus:
     }
 
     next_builds = [
-        "Multi-agent orchestration pipelines with memory &amp; tool use",
+        "Multi-agent orchestration pipelines with memory & tool use",
         "Async-first SaaS backend templates (open source)",
         "AI-native automation replacing manual enterprise workflows",
     ]
 
     philosophy = "Every system I build must survive production."
 
-    open_to    = "Backend engineering, technical leadership &amp; AI systems roles — remote or Pakistan-based."
+    open_to    = "Backend engineering, technical leadership & AI systems roles — remote or Pakistan-based."
 ```
 
 <br/>
