@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:0a0a0a&amp;height=180&amp;section=header&amp;text=UZAIR%20WASEEM&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=Backend%20and%20Agentic%20AI%20Developer&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:0a0a0a&amp;height=180&amp;section=header&amp;text=UZAIR%20WASEEM&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=42&amp;animation=fadeIn&amp;desc=Technical%20Team%20Lead%20%26%20Agentic%20AI%20Developer&amp;descAlignY=62&amp;descSize=18&amp;descAlign=50" alt="header" />
 
 <a href="https://github.com/Uzair-Waseem-390">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;height=56&amp;lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+not+just+features.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents.;FIFO+ledgers.+WebSocket+chat.+Production-grade+auth." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=700&amp;size=26&amp;duration=2800&amp;pause=1000&amp;color=0A0A0A&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=720&amp;height=56&amp;lines=Hi%2C+I%27m+Uzair+Waseem+%F0%9F%91%8B;Technical+Team+Lead+%40+GazaBridge;Backend+%26+Agentic+AI+Developer;I+build+systems%2C+lead+teams%2C+and+ship+production.;Async+pipelines.+Multi-tenant+SaaS.+AI+Agents.;FIFO+ledgers.+WebSocket+chat.+Production-grade+auth." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,16 +44,19 @@
 <br/>
 
 ```
-  Role     →  Backend &amp; Agentic AI Developer
-  Focus    →  System Design · Async Pipelines · SaaS Architecture
+  Role     →  Technical Team Lead @ GazaBridge · Backend &amp; Agentic AI Developer
+  Focus    →  System Design · Team Leadership · Async Pipelines · SaaS Architecture
   Stack    →  Python · Django · FastAPI · Redis · Celery · PostgreSQL
-  Current  →  Shipping AlphaPK &amp; GazaBridge to production
+  Leading  →  Engineering team, full site ownership &amp; social media at GazaBridge
+  Shipped  →  AlphaPK · Alfa · Kerala Industries — live in production for real clients
   Belief   →  "Scalability isn't added later. It's designed from the start"
 ```
 
 I design and build backend infrastructure that scales from async task pipelines to multi tenant SaaS platforms to AI agent systems that replace entire manual workflows.
 
 My work sits at the intersection of **distributed systems**, **AI automation**, and **real world product engineering**. I care less about demo ready and more about production ready: FIFO-accurate ledgers, token revocable auth, and rate limiters that survive a spike, not just a screenshot.
+
+As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code — I now own the full site end to end, lead a team of engineers, and run the platform's social media presence. I still ship code daily, but the job now is also about setting direction, reviewing my team's work, and making sure the product and the brand move together.
 
 <br/>
 
@@ -235,6 +238,60 @@ backend/
 </tr>
 </table>
 
+> 🔁 **Same engine, different client.** The AlphaPK codebase is deployed independently as **Alfa** for a second trading client — same FIFO ledger and billing core, isolated deployment and data.
+> [![Alfa Repo](https://img.shields.io/badge/View%20Repo-Alfa-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-3900/alfa)
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ─────────────── KERALA INDUSTRIES — FULL WIDTH HERO ─────────────── -->
+
+### 🏭 Kerala Industries — Manufacturing &amp; Production ERP
+
+> *A backend for a manufacturing operation that buys raw material, processes it, produces finished goods, and sells the output — a fundamentally different flow than trading inventory.*
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+**The problem:** Trading software (buy finished stock, resell at a margin) doesn't fit a manufacturer. Kerala Industries needed to track value as it moves through **raw material → processing → finished good → sale**, with costing that stays accurate at every stage.
+
+**The system:** A Django DRF backend built for real production operations — raw material procurement, processing/conversion tracking, finished goods inventory, and sales, each stage costed and auditable rather than treated as one flat stock pool.
+
+**Architecture highlights:**
+- 🌾 **Raw material procurement** — supplier purchases tracked independently from finished stock
+- ⚙️ **Processing/conversion stage** — raw input consumed into finished output with yield and cost tracked per batch
+- 📦 **Finished goods inventory** distinct from raw stock — no conflating the two
+- 💰 **Stage-aware costing** — landed raw material cost carried through processing into final product cost
+- 🧾 Sales &amp; invoicing against finished goods only
+- 🧩 Layered `selectors.py` / `services.py` architecture shared with the AlphaPK/Alfa lineage
+
+</td>
+<td width="45%" valign="top">
+
+**Production flow:**
+```
+Raw Material Purchase
+        ↓
+  Processing / Conversion
+   (yield + cost tracked)
+        ↓
+  Finished Goods Inventory
+        ↓
+     Sale / Invoice
+```
+
+**Stack:** `Django` · `DRF` · `PostgreSQL` · `React`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%230A0A0A?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Uzair-Waseem-390/kerala_industries)
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ---
@@ -396,6 +453,7 @@ Multi-Branch School Network
 │  Rate Limiting     │  Sliding-window, IP-aware, proxy-spoofing-safe   │
 │  Security          │  Token blacklisting, OAuth2, env-separated       │
 │  Observability     │  If you can't measure it, you can't fix it       │
+│  Leadership        │  Own the site end-to-end, review the team's code│
 └────────────────────┴─────────────────────────────────────────────────┘
 ```
 
@@ -444,8 +502,9 @@ Multi-Branch School Network
 class CurrentFocus:
 
     active = {
-        "AlphaPK":    "Extending FIFO ledger reporting &amp; deployment hardening",
-        "GazaBridge": "Shipping to production, live sessions, deployment, monitoring",
+        "GazaBridge":        "Leading the team, owning the full site, running social media",
+        "AlphaPK / Alfa":    "Live in production for two independent trading clients",
+        "Kerala Industries": "Live in production for a manufacturing client",
     }
 
     next_builds = [
@@ -456,7 +515,7 @@ class CurrentFocus:
 
     philosophy = "Every system I build must survive production."
 
-    open_to    = "Backend engineering &amp; AI systems roles — remote or Pakistan-based."
+    open_to    = "Backend engineering, technical leadership &amp; AI systems roles — remote or Pakistan-based."
 ```
 
 <br/>
