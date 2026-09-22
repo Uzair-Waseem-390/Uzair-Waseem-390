@@ -56,7 +56,7 @@ I design and build backend infrastructure that scales from async task pipelines 
 
 My work sits at the intersection of **distributed systems**, **AI automation**, and **real world product engineering**. I care less about demo ready and more about production ready: FIFO-accurate ledgers, token revocable auth, and rate limiters that survive a spike, not just a screenshot.
 
-As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code — I now own the full site end to end, lead a team of engineers, and run the platform's social media presence. I still ship code daily, but the job now is also about setting direction, reviewing my team's work, and making sure the product and the brand move together.
+As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code, I now own the full site end to end, lead a team of engineers, and run the platform's social media presence. I still ship code daily, but the job now is also about setting direction, reviewing my team's work, and making sure the product and the brand move together.
 
 <br/>
 
