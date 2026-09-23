@@ -385,7 +385,7 @@ Production-Ready Schema
 
 - Dynamic clarification before output
 - Structured output via OpenAI SDK
-- Prompt-optimized for accuracy
+- Prompt optimized for accuracy
 - FastAPI + React interface
 
 **Stack:** `FastAPI` · `React` · `OpenAI SDK`
