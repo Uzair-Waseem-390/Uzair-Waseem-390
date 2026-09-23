@@ -54,7 +54,7 @@
 
 I design and build backend infrastructure that scales from async task pipelines to multi tenant SaaS platforms to AI agent systems that replace entire manual workflows.
 
-My work sits at the intersection of **distributed systems**, **AI automation**, and **real world product engineering**. I care less about demo ready and more about production ready: FIFO-accurate ledgers, token revocable auth, and rate limiters that survive a spike, not just a screenshot.
+My work sits at the intersection of **distributed systems**, **AI automation**, and **real world product engineering**. I care less about demo ready and more about production ready: FIFO accurate ledgers, token revocable auth, and rate limiters that survive a spike, not just a screenshot.
 
 As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code, I now own the full site end to end, lead a team of engineers, and run the platform's social media presence. I still ship code daily, but the job now is also about setting direction, reviewing my team's work, and making sure the product and the brand move together.
 
@@ -132,14 +132,14 @@ As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code
 
 **Architecture highlights:**
 - 💬 **Real time WebSocket chat** (group + 1:1) via **Django Channels** + `channels_redis`
-- 🔑 **Google OAuth2** login alongside a custom JWT scheme with **manual Redis-based refresh-token rotation**
+- 🔑 **Google OAuth2** login alongside a custom JWT scheme with **manual Redis based refresh-token rotation**
 - 🗂️ **Isolated Redis partitions** — broker · API cache · rate limiter · token blacklist, never one flat pool
 - ⚡ **Celery** async pipeline — email flows without blocking the request cycle
 - 🛡️ Custom **sliding-window rate limiter** (100 req/min auth · 20 req/min anon)
 - 🔒 **IP spoofing prevention** — trusted proxy validation via `X-Forwarded-For`
 - 🐘 **Supabase PostgreSQL** via PgBouncer connection pooler (port 6543)
 - 📖 Auto-generated **OpenAPI 3.0** docs via `drf-spectacular`
-- 🧩 **10 backend modules:** users · auth · chat · posts · courses · live sessions · resources · notifications · admin · forget-password
+- 🧩 **10 backend modules:** users · auth · chat · posts · courses · live sessions · resources · notifications · admin · forget password
 
 </td>
 <td width="45%" valign="top">
