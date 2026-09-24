@@ -132,7 +132,7 @@ As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code
 
 **Architecture highlights:**
 - 💬 **Real time WebSocket chat** (group + 1:1) via **Django Channels** + `channels_redis`
-- 🔑 **Google OAuth2** login alongside a custom JWT scheme with **manual Redis based refresh-token rotation**
+- 🔑 **Google OAuth2** login alongside a custom JWT scheme with **manual Redis based refresh token rotation**
 - 🗂️ **Isolated Redis partitions** — broker · API cache · rate limiter · token blacklist, never one flat pool
 - ⚡ **Celery** async pipeline — email flows without blocking the request cycle
 - 🛡️ Custom **sliding-window rate limiter** (100 req/min auth · 20 req/min anon)
