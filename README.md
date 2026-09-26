@@ -149,7 +149,7 @@ As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code
 Redis  localhost:6379
 ├── DB 0  →  Celery broker + result backend
 ├── DB 1  →  Django API cache (paginated views)
-└── DB 2  →  Rate limiter (sliding-window)
+└── DB 2  →  Rate limiter (sliding window)
              + JWT token blacklist
 ```
 
