@@ -450,7 +450,7 @@ Multi-Branch School Network
 │  Financial Logic   │  FIFO costing, audit trails, no silent drift     │
 │  Multi-tenancy     │  Isolated from row 1 — not bolted on later       │
 │  Caching           │  Logical partitions, never one flat Redis pool   │
-│  Rate Limiting     │  Sliding-window, IP-aware, proxy-spoofing-safe   │
+│  Rate Limiting     │  Sliding window, IP-aware, proxy-spoofing-safe   │
 │  Security          │  Token blacklisting, OAuth2, env-separated       │
 │  Observability     │  If you can't measure it, you can't fix it       │
 │  Leadership        │  Own the site end-to-end, review the team's code│
