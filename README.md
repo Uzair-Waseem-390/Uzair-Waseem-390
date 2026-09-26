@@ -251,7 +251,7 @@ backend/
 
 ### 🏭 Kerala Industries — Manufacturing &amp; Production ERP
 
-> *A backend for a manufacturing operation that buys raw material, processes it, produces finished goods, and sells the output — a fundamentally different flow than trading inventory.*
+> *A backend for a manufacturing operation that buys raw material, processes it, produces finished goods, and sells the output, a fundamentally different flow than trading inventory.*
 
 <table width="100%">
 <tr>
@@ -262,10 +262,10 @@ backend/
 **The system:** A Django DRF backend built for real production operations — raw material procurement, processing/conversion tracking, finished goods inventory, and sales, each stage costed and auditable rather than treated as one flat stock pool.
 
 **Architecture highlights:**
-- 🌾 **Raw material procurement** — supplier purchases tracked independently from finished stock
-- ⚙️ **Processing/conversion stage** — raw input consumed into finished output with yield and cost tracked per batch
+- 🌾 **Raw material procurement** supplier purchases tracked independently from finished stock
+- ⚙️ **Processing/conversion stage** raw input consumed into finished output with yield and cost tracked per batch
 - 📦 **Finished goods inventory** distinct from raw stock — no conflating the two
-- 💰 **Stage-aware costing** — landed raw material cost carried through processing into final product cost
+- 💰 **Stage-aware costing** landed raw material cost carried through processing into final product cost
 - 🧾 Sales &amp; invoicing against finished goods only
 - 🧩 Layered `selectors.py` / `services.py` architecture shared with the AlphaPK/Alfa lineage
 
