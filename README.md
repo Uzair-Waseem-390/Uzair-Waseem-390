@@ -446,7 +446,7 @@ Multi-Branch School Network
 │  Async Pipelines   │  Celery + Redis — decouple everything that waits │
 │  Real-time         │  Django Channels — WebSockets where they matter  │
 │  AI Integration    │  Agents are workers inside orchestrated systems  │
-│  Data Modeling     │  Schema-first, migration-safe, query-optimized   │
+│  Data Modeling     │  Schema-first, migration-safe, query optimized   │
 │  Financial Logic   │  FIFO costing, audit trails, no silent drift     │
 │  Multi-tenancy     │  Isolated from row 1 — not bolted on later       │
 │  Caching           │  Logical partitions, never one flat Redis pool   │
