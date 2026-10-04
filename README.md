@@ -407,13 +407,13 @@ Multi-Branch School Network
           ↓
    Shared SaaS Platform
           ↓
-7 Role-Based Dashboards
+7 Role Based Dashboards
 (Admin · Teacher · Student
  Finance · Staff · Parent · HOD)
 ```
 
 - Multi-branch, multi-tenant architecture
-- Schema-level tenant isolation
+- Schema level tenant isolation
 - Finance reporting for real decisions
 - Institutional workflow automation
 
