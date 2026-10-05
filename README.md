@@ -136,7 +136,7 @@ As Technical Team Lead at **GazaBridge**, I've grown beyond writing backend code
 - 🗂️ **Isolated Redis partitions** — broker · API cache · rate limiter · token blacklist, never one flat pool
 - ⚡ **Celery** async pipeline — email flows without blocking the request cycle
 - 🛡️ Custom **sliding window rate limiter** (100 req/min auth · 20 req/min anon)
-- 🔒 **IP spoofing prevention** — trusted proxy validation via `X-Forwarded-For`
+- 🔒 **IP spoofing prevention** — trusted proxy validation via `X Forwarded For`
 - 🐘 **Supabase PostgreSQL** via PgBouncer connection pooler (port 6543)
 - 📖 Auto-generated **OpenAPI 3.0** docs via `drf-spectacular`
 - 🧩 **10 backend modules:** users · auth · chat · posts · courses · live sessions · resources · notifications · admin · forget password
