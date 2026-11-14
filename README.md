@@ -324,7 +324,7 @@ Filtered Job Feed + Email
 - Async pipeline via **Celery + Redis**
 - Resume parsing + job match scoring
 - Celery Beat scheduled scraping every 24h
-- SaaS-ready architecture
+- SaaS ready architecture
 
 **Stack:** `Django` · `React` · `Celery Beat` · `Redis` · `PostgreSQL` · `AI`
 
