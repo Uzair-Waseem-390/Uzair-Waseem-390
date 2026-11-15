@@ -380,7 +380,7 @@ Clarification Loop (AI agent)
          ↓
 Structured Output Engineering
          ↓
-Production-Ready Schema
+Production Ready Schema
 ```
 
 - Dynamic clarification before output
