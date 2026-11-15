@@ -158,7 +158,7 @@ Redis  localhost:6379
 backend/
  ├── users/            profiles, roles
  ├── auth_app/         JWT, OAuth2, blacklist
- ├── chat/             Channels WebSocket chat
+ ├── chat/             Channels Web-Socket chat
  ├── forget_password/  Celery email tasks
  ├── posts/            community feed
  ├── courses/          learning platform
