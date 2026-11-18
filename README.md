@@ -444,7 +444,7 @@ Multi-Branch School Network
 ├────────────────────┬─────────────────────────────────────────────────┤
 │  Scalability       │  Horizontal by design, not by accident           │
 │  Async Pipelines   │  Celery + Redis — decouple everything that waits │
-│  Real-time         │  Django Channels — WebSockets where they matter  │
+│  Real time         │  Django Channels — WebSockets where they matter  │
 │  AI Integration    │  Agents are workers inside orchestrated systems  │
 │  Data Modeling     │  Schema-first, migration-safe, query optimized   │
 │  Financial Logic   │  FIFO costing, audit trails, no silent drift     │
