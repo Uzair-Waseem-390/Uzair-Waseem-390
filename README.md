@@ -448,7 +448,7 @@ Multi-Branch School Network
 │  AI Integration    │  Agents are workers inside orchestrated systems  │
 │  Data Modeling     │  Schema-first, migration-safe, query optimized   │
 │  Financial Logic   │  FIFO costing, audit trails, no silent drift     │
-│  Multi-tenancy     │  Isolated from row 1 — not bolted on later       │
+│  Multi tenancy     │  Isolated from row 1 — not bolted on later       │
 │  Caching           │  Logical partitions, never one flat Redis pool   │
 │  Rate Limiting     │  Sliding window, IP-aware, proxy-spoofing-safe   │
 │  Security          │  Token blacklisting, OAuth2, env-separated       │
