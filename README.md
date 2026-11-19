@@ -265,7 +265,7 @@ backend/
 - 🌾 **Raw material procurement** supplier purchases tracked independently from finished stock
 - ⚙️ **Processing/conversion stage** raw input consumed into finished output with yield and cost tracked per batch
 - 📦 **Finished goods inventory** distinct from raw stock — no conflating the two
-- 💰 **Stage-aware costing** landed raw material cost carried through processing into final product cost
+- 💰 **Stage aware costing** landed raw material cost carried through processing into final product cost
 - 🧾 Sales &amp; invoicing against finished goods only
 - 🧩 Layered `selectors.py` / `services.py` architecture shared with the AlphaPK/Alfa lineage
 
