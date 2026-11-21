@@ -199,7 +199,7 @@ backend/
 - 🔑 **Custom email as primary key** user model with role derived permissions
 - 🧾 **WeasyPrint generated PDF invoices** with auto bill numbering (`BILL-2026-0001`)
 - 💳 **JazzCash / Easypaisa** local payment method support
-- ♻️ Soft-delete + full audit trail (`created_by` / `updated_by` / `deleted_by`) via a shared `AuditMixin`
+- ♻️ Soft delete + full audit trail (`created_by` / `updated_by` / `deleted_by`) via a shared `AuditMixin`
 - 🧩 **8 backend modules:** users · purchases · rates · billing · cash_flow · ledger · reports · data_entry
 
 </td>
