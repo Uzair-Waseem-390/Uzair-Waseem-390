@@ -412,7 +412,7 @@ Multi-Branch School Network
  Finance · Staff · Parent · HOD)
 ```
 
-- Multi-branch, multi-tenant architecture
+- Multi branch, multi tenant architecture
 - Schema level tenant isolation
 - Finance reporting for real decisions
 - Institutional workflow automation
