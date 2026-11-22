@@ -537,7 +537,7 @@ class CurrentFocus:
 > *How GazaBridge separates task brokering, API caching, rate limiting, and token blacklisting into isolated logical DBs — and why mixing them is a hidden reliability risk.*
 
 > 📝 **Building a Sliding-Window Rate Limiter From Scratch in Django**
-> *The custom GlobalRateLimitMiddleware: trusted proxy detection, IP spoofing prevention, Redis-backed counters, and why DRF's built-in throttling wasn't enough.*
+> *The custom GlobalRateLimitMiddleware: trusted proxy detection, IP spoofing prevention, Redis-backed counters, and why DRF's built in throttling wasn't enough.*
 
 > 📝 **FIFO Inventory Costing: Making an Accounting Ledger Actually Correct**
 > *How AlphaPK's FIFOLedger consumes purchase batches in order and snapshots COGS at invoice confirmation — and what breaks if you get this wrong.*
